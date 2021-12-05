@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SergioZamoraR
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: serchfrayne@gmail.com
